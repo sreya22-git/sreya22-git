@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+
+
 <h1 align="center">Hi 👋, I'm Sreya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
+- 🌱 I’m currently learning React.js.
+- 👯 I’m looking to collaborate on any projects.
+- 🤔 I’m looking for help with Typescript and Reactjs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
